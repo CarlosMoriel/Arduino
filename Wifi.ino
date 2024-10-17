@@ -1,6 +1,6 @@
 #include <WiFi.h>
 
-String ssid = "MascotaTracker"; // Nombre genérico para la red Wi-Fi
+String ssid = "MascotaTracker"; // Nombre genérico para la red Wi-Fi 
 String macAddress;
 
 void setup() {
