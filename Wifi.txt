@@ -1,0 +1,1 @@
+This project it's a ESP32 microcontroller that allows the user locate pets via wifi
